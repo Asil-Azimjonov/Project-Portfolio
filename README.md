@@ -14,13 +14,14 @@ Welcome to my personal data science portfolio. I'm Asiljon Azimjonov, a former m
 - Machine Learning model trained on real estate data
 - SHAP used to provide local and global feature explanations
 - Project demonstrates how black-box models can become interpretable
-- [🔗 View Project]([https://github.com/yourusername/housing-xai](https://github.com/Asil-Azimjonov/housing-price-xai/blob/main/README.md))
-- [📖 Read Article]([https://medium.com/@asiljon/housing-xai](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e))
-
+- [🔗 View Project](https://github.com/Asil-Azimjonov/housing-price-xai/blob/main/README.md)
+- [📖 Read Article](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e)
 
 ## 📫 Contact
 
 💼 [LinkedIn](https://www.linkedin.com/in/asiljon-azimjonov/)
+
+💡[Medium](https://medium.com/@asiljon-azimjonov)
 
 ---
 
