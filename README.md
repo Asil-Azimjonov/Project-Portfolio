@@ -7,7 +7,7 @@ Welcome to my personal data science portfolio. I'm Asiljon Azimjonov, a former m
 ## 🚀 Featured Projects
 
 ### 🏠 Real Estate Price Prediction & Explainable AI
-> A regression model to predict house prices and get insights into the predictions using SHAP values.
+> Applied a regression model to predict house prices and get insights into the predictions using SHAP values.
 >
 > Based on [Kaggle Competition: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
@@ -16,6 +16,18 @@ Welcome to my personal data science portfolio. I'm Asiljon Azimjonov, a former m
 - Project demonstrates how black-box models can become interpretable
 - [🔗 View Project](https://github.com/Asil-Azimjonov/housing-price-xai/blob/main/README.md)
 - [📖 Read Article](https://medium.com/@asiljon-azimjonov/explainable-artificial-intelligence-telling-the-story-behind-the-prediction-deb376a82d5e)
+
+
+## 🍽️ Recommender Model for LLM-Generated Meal Recipes
+> Classification of LLM generated meal recipes
+>
+> Using data from the Business Analytics and Machine Learning course at TUM
+
+- Feature Engineering
+- Model training and evaluation
+- Hyperparameter tuning
+- SHAP used to provide additional insights
+- [🔗 View Project](https://github.com/Asil-Azimjonov/recipe_classification-)
 
 ## 📫 Contact
 
